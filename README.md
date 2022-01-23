@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Emily
 
 <!--
 **Lychee030/Lychee030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning AI & Cloud
+- 💬 Chat with me about 王者荣耀, bilibili, 动漫, food
+- 😄 Most used programming languages: Python, java, R
