@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning AI & Cloud
-- 💬 Chat with me about 王者荣耀, bilibili, 动漫, food
+- 💬 Chat with me about 王者荣耀 + 动漫
 - 😄 Most used programming languages: Python, java, R
+- ⚡ 王者荣耀: 双平台，缺中单dd我~ 曾国服妲己；小国标西施、小乔；市级诸葛亮、女娲；区级瑶
