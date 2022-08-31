@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning AI & Cloud
+- 🌱 I’m currently learning Cloud & Cybersecurity
 - 💬 Chat with me about 王者荣耀 + 动漫
 - 😄 Most used programming languages: Python, java, R
 - ⚡ 王者荣耀: 双平台，缺中单dd我~ 小国标西施、小乔；市级女娲；区级瑶
