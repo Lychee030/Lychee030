@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌱 I’m currently learning Cloud & Cybersecurity
-- 💬 Chat with me about 王者荣耀 + 动漫
-- 😄 Most used programming languages: Python, java, R, Go
-- ⚡ 王者荣耀: 小国标西施、小乔；市级女娲；区级瑶
